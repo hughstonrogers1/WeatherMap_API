@@ -1,0 +1,15 @@
+C:\Users\hughs\OneDrive\Desktop\Repo\OpenWeatherMap API\OpenWeatherMap API\bin\Debug\netcoreapp3.1\OpenWeatherMap API.exe
+C:\Users\hughs\OneDrive\Desktop\Repo\OpenWeatherMap API\OpenWeatherMap API\bin\Debug\netcoreapp3.1\OpenWeatherMap API.deps.json
+C:\Users\hughs\OneDrive\Desktop\Repo\OpenWeatherMap API\OpenWeatherMap API\bin\Debug\netcoreapp3.1\OpenWeatherMap API.runtimeconfig.json
+C:\Users\hughs\OneDrive\Desktop\Repo\OpenWeatherMap API\OpenWeatherMap API\bin\Debug\netcoreapp3.1\OpenWeatherMap API.runtimeconfig.dev.json
+C:\Users\hughs\OneDrive\Desktop\Repo\OpenWeatherMap API\OpenWeatherMap API\bin\Debug\netcoreapp3.1\OpenWeatherMap API.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\OpenWeatherMap API\OpenWeatherMap API\bin\Debug\netcoreapp3.1\OpenWeatherMap API.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\OpenWeatherMap API\OpenWeatherMap API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\OpenWeatherMap API\OpenWeatherMap API\obj\Debug\netcoreapp3.1\OpenWeatherMap API.csprojAssemblyReference.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\OpenWeatherMap API\OpenWeatherMap API\obj\Debug\netcoreapp3.1\OpenWeatherMap API.AssemblyInfoInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\OpenWeatherMap API\OpenWeatherMap API\obj\Debug\netcoreapp3.1\OpenWeatherMap API.AssemblyInfo.cs
+C:\Users\hughs\OneDrive\Desktop\Repo\OpenWeatherMap API\OpenWeatherMap API\obj\Debug\netcoreapp3.1\OpenWeatherMap API.csproj.CoreCompileInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\OpenWeatherMap API\OpenWeatherMap API\obj\Debug\netcoreapp3.1\OpenWeatherMap API.csproj.CopyComplete
+C:\Users\hughs\OneDrive\Desktop\Repo\OpenWeatherMap API\OpenWeatherMap API\obj\Debug\netcoreapp3.1\OpenWeatherMap API.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\OpenWeatherMap API\OpenWeatherMap API\obj\Debug\netcoreapp3.1\OpenWeatherMap API.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\OpenWeatherMap API\OpenWeatherMap API\obj\Debug\netcoreapp3.1\OpenWeatherMap API.genruntimeconfig.cache
